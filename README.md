@@ -150,7 +150,8 @@ b. No
 Q11. Bonus: Who developed XV6?
 c. MIT
 
-Theoretical Questions:
+### Theoretical Questions:
+
 Q12. **Process States in XV6:** In XV6, processes can be in various states:
 Runnable: Process is ready to execute.
 Running: Currently executing.
@@ -161,9 +162,11 @@ Q13. **File System Structure in XV6:** The file system in XV6 is a simple disk-b
 Superblock: Contains metadata about the file system.
 Inodes: Represent files and directories.
 Data blocks: Store actual file contents.
+
 Q14. **System Calls vs. Library Functions in XV6:**
 System calls: Interface between user-level processes and the operating system. Examples in XV6 include fork(), exit(), and read().
 Library functions: Pre-written functions that applications can use. These functions often utilize system calls internally. Examples in XV6 include printf() and strlen().
+
 Q15. **Memory Paging in XV6:** XV6 uses paging for memory management, breaking memory into fixed-size pages. Benefits include efficient use of physical memory, allowing non-contiguous allocation, and simplifying memory management.
 
 Q16. **Essential Shell Commands in XV6:**
