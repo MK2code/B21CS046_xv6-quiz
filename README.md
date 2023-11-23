@@ -117,37 +117,60 @@ Welcome to the XV Quiz for CSL 3030 - Operating Systems!
 
 ## Answers
 Please write your answers here
+
+
 Q1. What is XV6?
+
 Ans-    (b). A Unix-like operating system
 
+
 Q2. XV6 is based on which earlier operating system?
+
 c. BSD
 
+
 Q3. Which file system is used in XV6?
+
 d. simple
 
+
 Q4.How are system calls implemented in XV6?
+
 b. As interrupts
 
+
 Q5. In XV6, what is the maximum number of processes that can run simultaneously?
+
 a. 128
 
+
 Q6. What is the name of the shell used in XV6?
+
 c. Sh
 
+
 Q7. How does XV6 handle process scheduling?
+
 a. Round-robin scheduling
 
+
 Q8. Which memory management technique is used in XV6?
+
 a. Paging
 
+
 Q9. How are interrupts handled in XV6?
+
 d. Both b and c
 
+
 Q10. Does XV6 support multithreading?
+
 b. No 
 
+
 Q11. Bonus: Who developed XV6?
+
 c. MIT
 
 ### Theoretical Questions:
